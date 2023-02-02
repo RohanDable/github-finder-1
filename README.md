@@ -9,7 +9,7 @@
 ### `npm start`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000)
+Open [http://localhost:3000](http://loc`alhost:3000)
 
 ### `npm run build`
 
